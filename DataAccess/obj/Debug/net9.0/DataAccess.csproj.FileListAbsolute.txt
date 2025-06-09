@@ -1,0 +1,45 @@
+C:\Users\SAMSUNG\TodoSolution\DataAccess\bin\Debug\net9.0\DataAccess.deps.json
+C:\Users\SAMSUNG\TodoSolution\DataAccess\bin\Debug\net9.0\DataAccess.dll
+C:\Users\SAMSUNG\TodoSolution\DataAccess\bin\Debug\net9.0\DataAccess.pdb
+C:\Users\SAMSUNG\TodoSolution\DataAccess\obj\Debug\net9.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMSUNG\TodoSolution\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\TodoSolution\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfo.cs
+C:\Users\SAMSUNG\TodoSolution\DataAccess\obj\Debug\net9.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\TodoSolution\DataAccess\obj\Debug\net9.0\DataAccess.dll
+C:\Users\SAMSUNG\TodoSolution\DataAccess\obj\Debug\net9.0\refint\DataAccess.dll
+C:\Users\SAMSUNG\TodoSolution\DataAccess\obj\Debug\net9.0\DataAccess.pdb
+C:\Users\SAMSUNG\TodoSolution\DataAccess\obj\Debug\net9.0\ref\DataAccess.dll
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\DataAccess\bin\Debug\net9.0\DataAccess.deps.json
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\DataAccess\bin\Debug\net9.0\DataAccess.dll
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\DataAccess\bin\Debug\net9.0\DataAccess.pdb
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\DataAccess\obj\Debug\net9.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfo.cs
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\DataAccess\obj\Debug\net9.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\DataAccess\obj\Debug\net9.0\DataAccess.dll
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\DataAccess\obj\Debug\net9.0\refint\DataAccess.dll
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\DataAccess\obj\Debug\net9.0\DataAccess.pdb
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\DataAccess\obj\Debug\net9.0\ref\DataAccess.dll
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\DataAccess\bin\Debug\net9.0\DataAccess.deps.json
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\DataAccess\bin\Debug\net9.0\DataAccess.dll
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\DataAccess\bin\Debug\net9.0\DataAccess.pdb
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\DataAccess\obj\Debug\net9.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfo.cs
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\DataAccess\obj\Debug\net9.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\DataAccess\obj\Debug\net9.0\DataAccess.dll
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\DataAccess\obj\Debug\net9.0\refint\DataAccess.dll
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\DataAccess\obj\Debug\net9.0\DataAccess.pdb
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\DataAccess\obj\Debug\net9.0\ref\DataAccess.dll
+D:\projects_of_faculty_on_github\N-Tier\DataAccess\bin\Debug\net9.0\DataAccess.deps.json
+D:\projects_of_faculty_on_github\N-Tier\DataAccess\bin\Debug\net9.0\DataAccess.dll
+D:\projects_of_faculty_on_github\N-Tier\DataAccess\bin\Debug\net9.0\DataAccess.pdb
+D:\projects_of_faculty_on_github\N-Tier\DataAccess\obj\Debug\net9.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects_of_faculty_on_github\N-Tier\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfoInputs.cache
+D:\projects_of_faculty_on_github\N-Tier\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfo.cs
+D:\projects_of_faculty_on_github\N-Tier\DataAccess\obj\Debug\net9.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\projects_of_faculty_on_github\N-Tier\DataAccess\obj\Debug\net9.0\DataAccess.sourcelink.json
+D:\projects_of_faculty_on_github\N-Tier\DataAccess\obj\Debug\net9.0\DataAccess.dll
+D:\projects_of_faculty_on_github\N-Tier\DataAccess\obj\Debug\net9.0\refint\DataAccess.dll
+D:\projects_of_faculty_on_github\N-Tier\DataAccess\obj\Debug\net9.0\DataAccess.pdb
+D:\projects_of_faculty_on_github\N-Tier\DataAccess\obj\Debug\net9.0\ref\DataAccess.dll

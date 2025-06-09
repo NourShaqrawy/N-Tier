@@ -1,0 +1,61 @@
+C:\Users\SAMSUNG\TodoSolution\Business\bin\Debug\net9.0\Business.deps.json
+C:\Users\SAMSUNG\TodoSolution\Business\bin\Debug\net9.0\Business.dll
+C:\Users\SAMSUNG\TodoSolution\Business\bin\Debug\net9.0\Business.pdb
+C:\Users\SAMSUNG\TodoSolution\Business\bin\Debug\net9.0\DataAccess.dll
+C:\Users\SAMSUNG\TodoSolution\Business\bin\Debug\net9.0\DataAccess.pdb
+C:\Users\SAMSUNG\TodoSolution\Business\obj\Debug\net9.0\Business.csproj.AssemblyReference.cache
+C:\Users\SAMSUNG\TodoSolution\Business\obj\Debug\net9.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMSUNG\TodoSolution\Business\obj\Debug\net9.0\Business.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\TodoSolution\Business\obj\Debug\net9.0\Business.AssemblyInfo.cs
+C:\Users\SAMSUNG\TodoSolution\Business\obj\Debug\net9.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\TodoSolution\Business\obj\Debug\net9.0\Business.csproj.Up2Date
+C:\Users\SAMSUNG\TodoSolution\Business\obj\Debug\net9.0\Business.dll
+C:\Users\SAMSUNG\TodoSolution\Business\obj\Debug\net9.0\refint\Business.dll
+C:\Users\SAMSUNG\TodoSolution\Business\obj\Debug\net9.0\Business.pdb
+C:\Users\SAMSUNG\TodoSolution\Business\obj\Debug\net9.0\ref\Business.dll
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\Business\bin\Debug\net9.0\Business.deps.json
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\Business\bin\Debug\net9.0\Business.dll
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\Business\bin\Debug\net9.0\Business.pdb
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\Business\bin\Debug\net9.0\DataAccess.dll
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\Business\bin\Debug\net9.0\DataAccess.pdb
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\Business\obj\Debug\net9.0\Business.csproj.AssemblyReference.cache
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\Business\obj\Debug\net9.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\Business\obj\Debug\net9.0\Business.AssemblyInfoInputs.cache
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\Business\obj\Debug\net9.0\Business.AssemblyInfo.cs
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\Business\obj\Debug\net9.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\Business\obj\Debug\net9.0\Business.csproj.Up2Date
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\Business\obj\Debug\net9.0\Business.dll
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\Business\obj\Debug\net9.0\refint\Business.dll
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\Business\obj\Debug\net9.0\Business.pdb
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\Business\obj\Debug\net9.0\ref\Business.dll
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Business\bin\Debug\net9.0\Business.deps.json
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Business\bin\Debug\net9.0\Business.dll
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Business\bin\Debug\net9.0\Business.pdb
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Business\bin\Debug\net9.0\DataAccess.dll
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Business\bin\Debug\net9.0\DataAccess.pdb
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Business\obj\Debug\net9.0\Business.csproj.AssemblyReference.cache
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Business\obj\Debug\net9.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Business\obj\Debug\net9.0\Business.AssemblyInfoInputs.cache
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Business\obj\Debug\net9.0\Business.AssemblyInfo.cs
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Business\obj\Debug\net9.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Business\obj\Debug\net9.0\Business.csproj.Up2Date
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Business\obj\Debug\net9.0\Business.dll
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Business\obj\Debug\net9.0\refint\Business.dll
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Business\obj\Debug\net9.0\Business.pdb
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Business\obj\Debug\net9.0\ref\Business.dll
+D:\projects_of_faculty_on_github\N-Tier\Business\bin\Debug\net9.0\Business.deps.json
+D:\projects_of_faculty_on_github\N-Tier\Business\bin\Debug\net9.0\Business.dll
+D:\projects_of_faculty_on_github\N-Tier\Business\bin\Debug\net9.0\Business.pdb
+D:\projects_of_faculty_on_github\N-Tier\Business\bin\Debug\net9.0\DataAccess.dll
+D:\projects_of_faculty_on_github\N-Tier\Business\bin\Debug\net9.0\DataAccess.pdb
+D:\projects_of_faculty_on_github\N-Tier\Business\obj\Debug\net9.0\Business.csproj.AssemblyReference.cache
+D:\projects_of_faculty_on_github\N-Tier\Business\obj\Debug\net9.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects_of_faculty_on_github\N-Tier\Business\obj\Debug\net9.0\Business.AssemblyInfoInputs.cache
+D:\projects_of_faculty_on_github\N-Tier\Business\obj\Debug\net9.0\Business.AssemblyInfo.cs
+D:\projects_of_faculty_on_github\N-Tier\Business\obj\Debug\net9.0\Business.csproj.CoreCompileInputs.cache
+D:\projects_of_faculty_on_github\N-Tier\Business\obj\Debug\net9.0\Business.sourcelink.json
+D:\projects_of_faculty_on_github\N-Tier\Business\obj\Debug\net9.0\Business.csproj.Up2Date
+D:\projects_of_faculty_on_github\N-Tier\Business\obj\Debug\net9.0\Business.dll
+D:\projects_of_faculty_on_github\N-Tier\Business\obj\Debug\net9.0\refint\Business.dll
+D:\projects_of_faculty_on_github\N-Tier\Business\obj\Debug\net9.0\Business.pdb
+D:\projects_of_faculty_on_github\N-Tier\Business\obj\Debug\net9.0\ref\Business.dll

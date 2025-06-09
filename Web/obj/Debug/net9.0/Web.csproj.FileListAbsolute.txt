@@ -1,0 +1,393 @@
+C:\Users\SAMSUNG\TodoSolution\Web\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\SAMSUNG\TodoSolution\Web\bin\Debug\net9.0\appsettings.json
+C:\Users\SAMSUNG\TodoSolution\Web\bin\Debug\net9.0\Web.staticwebassets.runtime.json
+C:\Users\SAMSUNG\TodoSolution\Web\bin\Debug\net9.0\Web.staticwebassets.endpoints.json
+C:\Users\SAMSUNG\TodoSolution\Web\bin\Debug\net9.0\Web.exe
+C:\Users\SAMSUNG\TodoSolution\Web\bin\Debug\net9.0\Web.deps.json
+C:\Users\SAMSUNG\TodoSolution\Web\bin\Debug\net9.0\Web.runtimeconfig.json
+C:\Users\SAMSUNG\TodoSolution\Web\bin\Debug\net9.0\Web.dll
+C:\Users\SAMSUNG\TodoSolution\Web\bin\Debug\net9.0\Web.pdb
+C:\Users\SAMSUNG\TodoSolution\Web\bin\Debug\net9.0\Business.dll
+C:\Users\SAMSUNG\TodoSolution\Web\bin\Debug\net9.0\DataAccess.dll
+C:\Users\SAMSUNG\TodoSolution\Web\bin\Debug\net9.0\Business.pdb
+C:\Users\SAMSUNG\TodoSolution\Web\bin\Debug\net9.0\DataAccess.pdb
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\Web.csproj.AssemblyReference.cache
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\Web.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\Web.AssemblyInfo.cs
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\Web.RazorAssemblyInfo.cache
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\Web.RazorAssemblyInfo.cs
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\scopedcss\bundle\Web.styles.css
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\scopedcss\projectbundle\Web.bundle.scp.css
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\f61f1xnw7n-b9sayid5wm.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\ds8f6vp0dx-61n19gt1b8.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\2wck7lvexw-xtxxf3hu2r.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\7ygf986cjc-bqjiyaj88i.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\g7jaoa2azg-c2jlpeoesf.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\q6tcj720kj-erw9l3u2r3.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\stgtprjdtq-aexeepp0ev.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\fh940anavu-d7shbmvgxk.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\603twa8jzh-ausgxo2sd3.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\zdm4cqaq7f-k8d9w2qqmf.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\ry2lsbpd07-cosvhxvwiu.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\1gss6zyjkr-ub07r2b239.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\wx9adel4hy-fvhpjtyr6v.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\9k1pyb81ef-b7pk76d08c.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\mq6o53qe1u-fsbi9cje9m.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\ljg6dsv1bv-rzd6atqjts.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\ng57iwl2al-ee0r1s7dh0.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\wopplg4435-dxx9fxp4il.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\3vqgbiuipn-jd9uben2k1.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\m7huvb4kn2-khv3u5hwcm.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\x0ikghc86v-r4e9w2rdcm.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\02ea6xj9rh-lcd1t2u6c8.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\bog3myc9tt-c2oey78nd0.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\79q8ibde6t-tdbxkamptv.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\eoihuuwmnn-j5mq2jizvt.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\2t3lan9m7t-06098lyss8.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\vtyfpm73ax-nvvlpmu67g.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\k4g80ewg6l-s35ty4nyc5.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\x64q2cmbwf-pj5nd1wqec.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\elp8rxzrwi-46ein0sx1k.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\xhmikpv6cx-v0zj4ognzu.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\t4dnvmz6du-37tfw0ft22.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\hggg99tm4u-hrwsygsryq.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\sts8qvrbx6-pk9g2wxc8p.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\2izue3zo5s-ft3s53vfgj.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\gp2mp6y1r5-6cfz1n2cew.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\5tonjjd6hv-6pdc2jztkx.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\yijslo3x3h-493y06b0oq.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\ucgiwmn21o-iovd86k7lj.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\kfbhw1t98w-vr1egmr9el.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\utt3meco2n-kbrnm935zg.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\x1ar33jdpk-jj8uyg4cgr.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\89ew16yfm9-y7v9cxd14o.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\d4r19zxrlm-notf2xhcfb.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\e86cdgvlxn-h1s4sie4z3.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\hyv4g9kgrj-63fj8s7r0e.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\rnzntvrn7x-0j3bgjxly4.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\7c67y20fo9-47otxtyo56.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\3jzmyfskya-4v8eqarkd7.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\gne3lr9g41-356vix0kms.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\04lfldih4m-83jwlth58m.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\n3skxtlj8p-mrlpezrjn3.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\71zwwbpd1z-lzl9nlhx6b.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\xbdpakeppb-ag7o75518u.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\vv18cdsers-x0q3zqp4vz.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\hympzpy3v2-0i3buxo5is.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\v3uaxdax4h-o1o13a6vjx.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\ibydfhq30f-ttgo8qnofa.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\m9kv2uuwts-2z0ns9nrw6.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\9hn7o3drtm-muycvpuwrr.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\rs1zpuhh2k-87fc7y1x7t.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\6b63vhqmsl-mlv21k5csn.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\gga45437c7-zmm9ivslsu.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\compressed\6bir0r8491-zmm9ivslsu.gz
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\Web.csproj.Up2Date
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\Web.dll
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\refint\Web.dll
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\Web.pdb
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\Web.genruntimeconfig.cache
+C:\Users\SAMSUNG\TodoSolution\Web\obj\Debug\net9.0\ref\Web.dll
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\bin\Debug\net9.0\appsettings.json
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\bin\Debug\net9.0\Web.staticwebassets.endpoints.json
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\bin\Debug\net9.0\Web.staticwebassets.runtime.json
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\bin\Debug\net9.0\Web.exe
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\bin\Debug\net9.0\Web.deps.json
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\bin\Debug\net9.0\Web.runtimeconfig.json
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\bin\Debug\net9.0\Web.dll
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\bin\Debug\net9.0\Web.pdb
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\bin\Debug\net9.0\Business.dll
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\bin\Debug\net9.0\DataAccess.dll
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\bin\Debug\net9.0\Business.pdb
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\bin\Debug\net9.0\DataAccess.pdb
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\Web.csproj.AssemblyReference.cache
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\Web.AssemblyInfoInputs.cache
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\Web.AssemblyInfo.cs
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\Web.RazorAssemblyInfo.cache
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\Web.RazorAssemblyInfo.cs
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\scopedcss\bundle\Web.styles.css
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\scopedcss\projectbundle\Web.bundle.scp.css
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\f61f1xnw7n-b9sayid5wm.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\ds8f6vp0dx-61n19gt1b8.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\2wck7lvexw-xtxxf3hu2r.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\7ygf986cjc-bqjiyaj88i.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\g7jaoa2azg-c2jlpeoesf.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\q6tcj720kj-erw9l3u2r3.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\stgtprjdtq-aexeepp0ev.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\fh940anavu-d7shbmvgxk.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\603twa8jzh-ausgxo2sd3.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\zdm4cqaq7f-k8d9w2qqmf.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\ry2lsbpd07-cosvhxvwiu.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\1gss6zyjkr-ub07r2b239.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\wx9adel4hy-fvhpjtyr6v.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\9k1pyb81ef-b7pk76d08c.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\mq6o53qe1u-fsbi9cje9m.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\ljg6dsv1bv-rzd6atqjts.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\ng57iwl2al-ee0r1s7dh0.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\wopplg4435-dxx9fxp4il.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\3vqgbiuipn-jd9uben2k1.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\m7huvb4kn2-khv3u5hwcm.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\x0ikghc86v-r4e9w2rdcm.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\02ea6xj9rh-lcd1t2u6c8.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\bog3myc9tt-c2oey78nd0.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\79q8ibde6t-tdbxkamptv.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\eoihuuwmnn-j5mq2jizvt.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\2t3lan9m7t-06098lyss8.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\vtyfpm73ax-nvvlpmu67g.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\k4g80ewg6l-s35ty4nyc5.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\x64q2cmbwf-pj5nd1wqec.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\elp8rxzrwi-46ein0sx1k.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\xhmikpv6cx-v0zj4ognzu.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\t4dnvmz6du-37tfw0ft22.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\hggg99tm4u-hrwsygsryq.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\sts8qvrbx6-pk9g2wxc8p.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\2izue3zo5s-ft3s53vfgj.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\gp2mp6y1r5-6cfz1n2cew.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\5tonjjd6hv-6pdc2jztkx.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\yijslo3x3h-493y06b0oq.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\ucgiwmn21o-iovd86k7lj.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\kfbhw1t98w-vr1egmr9el.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\utt3meco2n-kbrnm935zg.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\x1ar33jdpk-jj8uyg4cgr.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\89ew16yfm9-y7v9cxd14o.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\d4r19zxrlm-notf2xhcfb.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\e86cdgvlxn-h1s4sie4z3.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\hyv4g9kgrj-63fj8s7r0e.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\rnzntvrn7x-0j3bgjxly4.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\7c67y20fo9-47otxtyo56.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\3jzmyfskya-4v8eqarkd7.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\gne3lr9g41-356vix0kms.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\04lfldih4m-83jwlth58m.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\n3skxtlj8p-mrlpezrjn3.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\71zwwbpd1z-lzl9nlhx6b.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\xbdpakeppb-ag7o75518u.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\vv18cdsers-x0q3zqp4vz.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\hympzpy3v2-0i3buxo5is.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\v3uaxdax4h-o1o13a6vjx.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\ibydfhq30f-ttgo8qnofa.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\m9kv2uuwts-2z0ns9nrw6.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\9hn7o3drtm-muycvpuwrr.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\rs1zpuhh2k-87fc7y1x7t.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\6b63vhqmsl-mlv21k5csn.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\gga45437c7-zmm9ivslsu.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\compressed\6bir0r8491-zmm9ivslsu.gz
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\Web.csproj.Up2Date
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\Web.dll
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\refint\Web.dll
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\Web.pdb
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\Web.genruntimeconfig.cache
+C:\Users\NOUR\Desktop\nour todo\TodoSolution\web\obj\Debug\net9.0\ref\Web.dll
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\bin\Debug\net9.0\appsettings.json
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\bin\Debug\net9.0\Web.staticwebassets.endpoints.json
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\bin\Debug\net9.0\Web.staticwebassets.runtime.json
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\bin\Debug\net9.0\Web.exe
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\bin\Debug\net9.0\Web.deps.json
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\bin\Debug\net9.0\Web.runtimeconfig.json
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\bin\Debug\net9.0\Web.dll
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\bin\Debug\net9.0\Web.pdb
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\bin\Debug\net9.0\Business.dll
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\bin\Debug\net9.0\DataAccess.dll
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\bin\Debug\net9.0\Business.pdb
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\bin\Debug\net9.0\DataAccess.pdb
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\Web.csproj.AssemblyReference.cache
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\Web.AssemblyInfoInputs.cache
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\Web.AssemblyInfo.cs
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\Web.RazorAssemblyInfo.cache
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\Web.RazorAssemblyInfo.cs
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\scopedcss\bundle\Web.styles.css
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\scopedcss\projectbundle\Web.bundle.scp.css
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\f61f1xnw7n-b9sayid5wm.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\ds8f6vp0dx-61n19gt1b8.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\2wck7lvexw-xtxxf3hu2r.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\7ygf986cjc-bqjiyaj88i.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\g7jaoa2azg-c2jlpeoesf.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\q6tcj720kj-erw9l3u2r3.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\stgtprjdtq-aexeepp0ev.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\fh940anavu-d7shbmvgxk.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\603twa8jzh-ausgxo2sd3.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\zdm4cqaq7f-k8d9w2qqmf.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\ry2lsbpd07-cosvhxvwiu.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\1gss6zyjkr-ub07r2b239.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\wx9adel4hy-fvhpjtyr6v.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\9k1pyb81ef-b7pk76d08c.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\mq6o53qe1u-fsbi9cje9m.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\ljg6dsv1bv-rzd6atqjts.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\ng57iwl2al-ee0r1s7dh0.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\wopplg4435-dxx9fxp4il.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\3vqgbiuipn-jd9uben2k1.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\m7huvb4kn2-khv3u5hwcm.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\x0ikghc86v-r4e9w2rdcm.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\02ea6xj9rh-lcd1t2u6c8.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\bog3myc9tt-c2oey78nd0.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\79q8ibde6t-tdbxkamptv.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\eoihuuwmnn-j5mq2jizvt.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\2t3lan9m7t-06098lyss8.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\vtyfpm73ax-nvvlpmu67g.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\k4g80ewg6l-s35ty4nyc5.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\x64q2cmbwf-pj5nd1wqec.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\elp8rxzrwi-46ein0sx1k.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\xhmikpv6cx-v0zj4ognzu.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\t4dnvmz6du-37tfw0ft22.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\hggg99tm4u-hrwsygsryq.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\sts8qvrbx6-pk9g2wxc8p.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\2izue3zo5s-ft3s53vfgj.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\gp2mp6y1r5-6cfz1n2cew.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\5tonjjd6hv-6pdc2jztkx.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\yijslo3x3h-493y06b0oq.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\ucgiwmn21o-iovd86k7lj.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\kfbhw1t98w-vr1egmr9el.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\utt3meco2n-kbrnm935zg.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\x1ar33jdpk-jj8uyg4cgr.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\89ew16yfm9-y7v9cxd14o.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\d4r19zxrlm-notf2xhcfb.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\e86cdgvlxn-h1s4sie4z3.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\hyv4g9kgrj-63fj8s7r0e.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\rnzntvrn7x-0j3bgjxly4.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\7c67y20fo9-47otxtyo56.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\3jzmyfskya-4v8eqarkd7.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\gne3lr9g41-356vix0kms.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\04lfldih4m-83jwlth58m.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\n3skxtlj8p-mrlpezrjn3.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\71zwwbpd1z-lzl9nlhx6b.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\xbdpakeppb-ag7o75518u.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\vv18cdsers-x0q3zqp4vz.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\hympzpy3v2-0i3buxo5is.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\v3uaxdax4h-o1o13a6vjx.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\ibydfhq30f-ttgo8qnofa.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\m9kv2uuwts-2z0ns9nrw6.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\9hn7o3drtm-muycvpuwrr.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\rs1zpuhh2k-87fc7y1x7t.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\6b63vhqmsl-mlv21k5csn.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\gga45437c7-zmm9ivslsu.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\compressed\6bir0r8491-zmm9ivslsu.gz
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\Web.csproj.Up2Date
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\Web.dll
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\refint\Web.dll
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\Web.pdb
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\Web.genruntimeconfig.cache
+C:\Users\NOUR\Desktop\nour .net\TodoSolution\Web\obj\Debug\net9.0\ref\Web.dll
+D:\projects_of_faculty_on_github\N-Tier\web\bin\Debug\net9.0\appsettings.Development.json
+D:\projects_of_faculty_on_github\N-Tier\web\bin\Debug\net9.0\appsettings.json
+D:\projects_of_faculty_on_github\N-Tier\web\bin\Debug\net9.0\Web.staticwebassets.endpoints.json
+D:\projects_of_faculty_on_github\N-Tier\web\bin\Debug\net9.0\Web.staticwebassets.runtime.json
+D:\projects_of_faculty_on_github\N-Tier\web\bin\Debug\net9.0\Web.exe
+D:\projects_of_faculty_on_github\N-Tier\web\bin\Debug\net9.0\Web.deps.json
+D:\projects_of_faculty_on_github\N-Tier\web\bin\Debug\net9.0\Web.runtimeconfig.json
+D:\projects_of_faculty_on_github\N-Tier\web\bin\Debug\net9.0\Web.dll
+D:\projects_of_faculty_on_github\N-Tier\web\bin\Debug\net9.0\Web.pdb
+D:\projects_of_faculty_on_github\N-Tier\web\bin\Debug\net9.0\Business.dll
+D:\projects_of_faculty_on_github\N-Tier\web\bin\Debug\net9.0\DataAccess.dll
+D:\projects_of_faculty_on_github\N-Tier\web\bin\Debug\net9.0\Business.pdb
+D:\projects_of_faculty_on_github\N-Tier\web\bin\Debug\net9.0\DataAccess.pdb
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\Web.csproj.AssemblyReference.cache
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\Web.AssemblyInfoInputs.cache
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\Web.AssemblyInfo.cs
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\Web.csproj.CoreCompileInputs.cache
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\Web.MvcApplicationPartsAssemblyInfo.cache
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\Web.RazorAssemblyInfo.cache
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\Web.RazorAssemblyInfo.cs
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\Web.sourcelink.json
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\scopedcss\bundle\Web.styles.css
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\scopedcss\projectbundle\Web.bundle.scp.css
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\f61f1xnw7n-b9sayid5wm.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\ds8f6vp0dx-61n19gt1b8.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\2wck7lvexw-xtxxf3hu2r.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\7ygf986cjc-bqjiyaj88i.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\g7jaoa2azg-c2jlpeoesf.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\q6tcj720kj-erw9l3u2r3.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\stgtprjdtq-aexeepp0ev.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\fh940anavu-d7shbmvgxk.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\603twa8jzh-ausgxo2sd3.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\zdm4cqaq7f-k8d9w2qqmf.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\ry2lsbpd07-cosvhxvwiu.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\1gss6zyjkr-ub07r2b239.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\wx9adel4hy-fvhpjtyr6v.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\9k1pyb81ef-b7pk76d08c.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\mq6o53qe1u-fsbi9cje9m.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\ljg6dsv1bv-rzd6atqjts.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\ng57iwl2al-ee0r1s7dh0.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\wopplg4435-dxx9fxp4il.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\3vqgbiuipn-jd9uben2k1.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\m7huvb4kn2-khv3u5hwcm.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\x0ikghc86v-r4e9w2rdcm.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\02ea6xj9rh-lcd1t2u6c8.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\bog3myc9tt-c2oey78nd0.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\79q8ibde6t-tdbxkamptv.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\eoihuuwmnn-j5mq2jizvt.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\2t3lan9m7t-06098lyss8.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\vtyfpm73ax-nvvlpmu67g.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\k4g80ewg6l-s35ty4nyc5.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\x64q2cmbwf-pj5nd1wqec.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\elp8rxzrwi-46ein0sx1k.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\xhmikpv6cx-v0zj4ognzu.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\t4dnvmz6du-37tfw0ft22.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\hggg99tm4u-hrwsygsryq.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\sts8qvrbx6-pk9g2wxc8p.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\2izue3zo5s-ft3s53vfgj.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\gp2mp6y1r5-6cfz1n2cew.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\5tonjjd6hv-6pdc2jztkx.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\yijslo3x3h-493y06b0oq.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\ucgiwmn21o-iovd86k7lj.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\kfbhw1t98w-vr1egmr9el.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\utt3meco2n-kbrnm935zg.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\x1ar33jdpk-jj8uyg4cgr.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\89ew16yfm9-y7v9cxd14o.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\d4r19zxrlm-notf2xhcfb.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\e86cdgvlxn-h1s4sie4z3.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\hyv4g9kgrj-63fj8s7r0e.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\rnzntvrn7x-0j3bgjxly4.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\7c67y20fo9-47otxtyo56.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\3jzmyfskya-4v8eqarkd7.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\gne3lr9g41-356vix0kms.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\04lfldih4m-83jwlth58m.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\n3skxtlj8p-mrlpezrjn3.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\71zwwbpd1z-lzl9nlhx6b.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\xbdpakeppb-ag7o75518u.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\vv18cdsers-x0q3zqp4vz.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\hympzpy3v2-0i3buxo5is.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\v3uaxdax4h-o1o13a6vjx.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\ibydfhq30f-ttgo8qnofa.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\m9kv2uuwts-2z0ns9nrw6.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\9hn7o3drtm-muycvpuwrr.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\rs1zpuhh2k-87fc7y1x7t.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\6b63vhqmsl-mlv21k5csn.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\gga45437c7-zmm9ivslsu.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\compressed\6bir0r8491-zmm9ivslsu.gz
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\staticwebassets.build.json
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\staticwebassets.development.json
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\Web.csproj.Up2Date
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\Web.dll
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\refint\Web.dll
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\Web.pdb
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\Web.genruntimeconfig.cache
+D:\projects_of_faculty_on_github\N-Tier\web\obj\Debug\net9.0\ref\Web.dll

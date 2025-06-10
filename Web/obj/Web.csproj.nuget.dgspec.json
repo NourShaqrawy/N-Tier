@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects_of_faculty_on_github\\N-Tier\\web\\Web.csproj": {}
+    "D:\\projects_of_faculty_on_github\\N-Tier\\Web\\Web.csproj": {}
   },
   "projects": {
     "D:\\projects_of_faculty_on_github\\N-Tier\\Business\\Business.csproj": {
@@ -126,14 +126,14 @@
         }
       }
     },
-    "D:\\projects_of_faculty_on_github\\N-Tier\\web\\Web.csproj": {
+    "D:\\projects_of_faculty_on_github\\N-Tier\\Web\\Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects_of_faculty_on_github\\N-Tier\\web\\Web.csproj",
+        "projectUniqueName": "D:\\projects_of_faculty_on_github\\N-Tier\\Web\\Web.csproj",
         "projectName": "Web",
-        "projectPath": "D:\\projects_of_faculty_on_github\\N-Tier\\web\\Web.csproj",
+        "projectPath": "D:\\projects_of_faculty_on_github\\N-Tier\\Web\\Web.csproj",
         "packagesPath": "C:\\Users\\NOUR\\.nuget\\packages\\",
-        "outputPath": "D:\\projects_of_faculty_on_github\\N-Tier\\web\\obj\\",
+        "outputPath": "D:\\projects_of_faculty_on_github\\N-Tier\\Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NOUR\\AppData\\Roaming\\NuGet\\NuGet.Config"

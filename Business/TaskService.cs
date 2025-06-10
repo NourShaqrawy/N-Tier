@@ -4,9 +4,7 @@ using NTierTodoApp.Models;
 
 namespace NTierTodoApp.Business
 {
-    /// <summary>
-    /// طبقة المنطق التجاري لإدارة المهام.
-    /// </summary>
+    
     public class TaskService
     {
         private readonly TaskRepository repository;
@@ -36,7 +34,7 @@ namespace NTierTodoApp.Business
                 task.IsComplete = true;
         }
 
-        // TODO: تنفيذ دالة حذف المهمة
+      
         public void DeleteTask(int id)
         {
             var task = repository.GetById(id);
